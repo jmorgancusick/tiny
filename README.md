@@ -10,6 +10,7 @@ Built to test AWS CodeArtifact.
 # Install
 
 ~~~
+AWS_PROFILE=personal AWS_REGION=us-east-2 aws codeartifact login --tool npm --repository my-first-npm-package --domain jmorgancusick --domain-owner 482283577367
 npm install @jmorgancusick/tiny
 ~~~
 
