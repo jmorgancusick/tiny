@@ -1,5 +1,5 @@
 {
-    "name": "@jmorgancusick/npm_aws_codeartifact",
+    "name": "@jmorgancusick/tiny",
     "version": "1.0.0",
     "description": "Removes all spaces from a string",
     "main": "index.js",
