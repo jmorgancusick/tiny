@@ -1,0 +1,12 @@
+{
+    "name": "@jmorgancusick/npm_aws_codeartifact",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": "jmorgancusick/tiny"
+}
